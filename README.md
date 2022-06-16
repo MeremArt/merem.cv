@@ -1,2 +1,2 @@
-# merem.cv
+# meremcv
 resume of ugo chinemerem franklin
